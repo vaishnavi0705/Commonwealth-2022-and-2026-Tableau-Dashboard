@@ -3,8 +3,7 @@
 This dashboard explores how the Commonwealth Games evolved between the 2022 (Birmingham) and 2026 (Glasgow) editions, focusing on three angles: participating nations, medal performance, and changes in the event lineup.
 
 ## Data preparation:
-Data was manually collected from Wikipedia, then cleaned, corrected, and structured into custom Excel data sources.
-This included combining separate tables, adding calculated/derived columns, and rechecking values against source pages to fix inconsistencies before building the dashboard.
+Data was sourced and structured manually from Wikipedia (2022 & 2026 Commonwealth Games pages), applying data validation and correction methods to ensure accuracy. This included combining tables, adding derived columns, and cross-checking values against source pages to fix inconsistencies before building the dashboard in Tableau.
 
 ## Key features:
 
