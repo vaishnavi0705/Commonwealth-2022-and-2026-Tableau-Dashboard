@@ -30,3 +30,4 @@ Compiled and cleaned by the author from Wikipedia (Commonwealth Games 2022 & 202
 
 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/vaishnavi.sharma7185/vizzes)**
 
+![Dashboard Screenshot](Commonwealth%20Games%202022%20%26%202026.png)
